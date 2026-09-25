@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" role="img" aria-label="MySQL">
+  <ellipse cx="20" cy="11" rx="14" ry="6" fill="#00758f"/>
+  <path fill="#00a8cc" d="M6 11v22c0 3 6 6 14 6s14-3 14-6V11c-3 4-8 6-14 6S9 15 6 11Zm4 10c3 2 6 3 10 3s8-1 10-3v4c-3 2-6 3-10 3s-8-1-10-3v-4Zm0 9c3 2 6 3 10 3s8-1 10-3v3c-2 2-6 3-10 3s-8-1-10-3v-3Z"/>
+  <path fill="none" stroke="#f29111" stroke-linecap="round" stroke-width="3" d="M31 15c8-1 11 2 11 7-3-2-6-2-10-1"/>
+</svg>
