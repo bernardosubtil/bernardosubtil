@@ -35,9 +35,9 @@ Eu decido o quê e o porquê; o Maestro divide o trabalho, os agentes constroem,
 
 ## Stack
 
-<table>
+<table width="100%">
 <tr>
-<td width="190"><sub><b>FRONT-END</b></sub></td>
+<td width="22%"><sub><b>FRONT-END</b></sub></td>
 <td>
 <img src="logos/typescript.svg" height="30" alt="TypeScript" title="TypeScript" />&nbsp;&nbsp;
 <img src="logos/react.svg" height="30" alt="React" title="React" />&nbsp;&nbsp;
@@ -47,7 +47,7 @@ Eu decido o quê e o porquê; o Maestro divide o trabalho, os agentes constroem,
 </td>
 </tr>
 <tr>
-<td width="190"><sub><b>BACK-END</b></sub></td>
+<td width="22%"><sub><b>BACK-END</b></sub></td>
 <td>
 <img src="logos/nodejs.svg" height="30" alt="Node.js" title="Node.js" />&nbsp;&nbsp;
 <img src="logos/python.svg" height="30" alt="Python" title="Python" />&nbsp;&nbsp;
@@ -57,7 +57,7 @@ Eu decido o quê e o porquê; o Maestro divide o trabalho, os agentes constroem,
 </td>
 </tr>
 <tr>
-<td width="190"><sub><b>DADOS</b></sub></td>
+<td width="22%"><sub><b>DADOS</b></sub></td>
 <td>
 <img src="logos/postgresql.svg" height="30" alt="PostgreSQL" title="PostgreSQL" />&nbsp;&nbsp;
 <img src="logos/supabase.svg" height="30" alt="Supabase" title="Supabase" />&nbsp;&nbsp;
@@ -70,7 +70,7 @@ Eu decido o quê e o porquê; o Maestro divide o trabalho, os agentes constroem,
 </td>
 </tr>
 <tr>
-<td width="190"><sub><b>AUTOMAÇÃO</b></sub></td>
+<td width="22%"><sub><b>AUTOMAÇÃO</b></sub></td>
 <td>
 <img src="logos/n8n.svg" height="30" alt="n8n" title="n8n" />&nbsp;&nbsp;
 <img src="logos/whatsapp.svg" height="30" alt="WhatsApp" title="WhatsApp" />&nbsp;&nbsp;
@@ -79,7 +79,7 @@ Eu decido o quê e o porquê; o Maestro divide o trabalho, os agentes constroem,
 </td>
 </tr>
 <tr>
-<td width="190"><sub><b>IA</b></sub></td>
+<td width="22%"><sub><b>IA</b></sub></td>
 <td>
 <img src="logos/claude.svg" height="30" alt="Claude" title="Claude" />&nbsp;&nbsp;
 <picture><source media="(prefers-color-scheme: dark)" srcset="logos/codex.svg" /><img src="logos/codex-light.svg" height="30" alt="Codex" title="Codex" /></picture>&nbsp;&nbsp;
@@ -88,7 +88,7 @@ Eu decido o quê e o porquê; o Maestro divide o trabalho, os agentes constroem,
 </td>
 </tr>
 <tr>
-<td width="190"><sub><b>TESTES E INFRA</b></sub></td>
+<td width="22%"><sub><b>TESTES E INFRA</b></sub></td>
 <td>
 <img src="logos/playwright.svg" height="30" alt="Playwright" title="Playwright" />&nbsp;&nbsp;
 <img src="logos/vitest.svg" height="30" alt="Vitest" title="Vitest" />&nbsp;&nbsp;
@@ -100,7 +100,7 @@ Eu decido o quê e o porquê; o Maestro divide o trabalho, os agentes constroem,
 </td>
 </tr>
 <tr>
-<td width="190"><sub><b>NO DIA A DIA</b></sub></td>
+<td width="22%"><sub><b>NO DIA A DIA</b></sub></td>
 <td>
 <img src="logos/vscode.svg" height="30" alt="VS Code" title="VS Code" />&nbsp;&nbsp;
 <img src="logos/notion.svg" height="30" alt="Notion" title="Notion" />&nbsp;&nbsp;
