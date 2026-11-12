@@ -35,30 +35,24 @@ Eu decido o quê e o porquê; o Maestro divide o trabalho, os agentes constroem,
 
 ## Stack
 
-<table width="100%">
-<tr>
-<td width="22%"><sub><b>FRONT-END</b></sub></td>
-<td>
+<p>
+<sub><b>FRONT-END</b> &nbsp;·&nbsp; também: GSAP, Three.js, Motion, Flet</sub><br />
 <img src="logos/typescript.svg" height="30" alt="TypeScript" title="TypeScript" />&nbsp;&nbsp;
 <img src="logos/react.svg" height="30" alt="React" title="React" />&nbsp;&nbsp;
 <picture><source media="(prefers-color-scheme: dark)" srcset="logos/nextjs.svg" /><img src="logos/nextjs-light.svg" height="30" alt="Next.js" title="Next.js" /></picture>&nbsp;&nbsp;
 <img src="logos/tailwindcss.svg" height="30" alt="Tailwind CSS" title="Tailwind CSS" />&nbsp;&nbsp;
-<img src="logos/figma.svg" height="30" alt="Figma" title="Figma" /><br><sub>também: GSAP, Three.js, Motion, Flet</sub>
-</td>
-</tr>
-<tr>
-<td width="22%"><sub><b>BACK-END</b></sub></td>
-<td>
+<img src="logos/figma.svg" height="30" alt="Figma" title="Figma" />
+</p>
+<p>
+<sub><b>BACK-END</b></sub><br />
 <img src="logos/nodejs.svg" height="30" alt="Node.js" title="Node.js" />&nbsp;&nbsp;
 <img src="logos/python.svg" height="30" alt="Python" title="Python" />&nbsp;&nbsp;
 <img src="logos/fastapi.svg" height="30" alt="FastAPI" title="FastAPI" />&nbsp;&nbsp;
 <img src="logos/java.svg" height="30" alt="Java" title="Java" />&nbsp;&nbsp;
 <img src="logos/spring.svg" height="30" alt="Spring Boot" title="Spring Boot" />
-</td>
-</tr>
-<tr>
-<td width="22%"><sub><b>DADOS</b></sub></td>
-<td>
+</p>
+<p>
+<sub><b>DADOS</b> &nbsp;·&nbsp; também: Power BI</sub><br />
 <img src="logos/postgresql.svg" height="30" alt="PostgreSQL" title="PostgreSQL" />&nbsp;&nbsp;
 <img src="logos/supabase.svg" height="30" alt="Supabase" title="Supabase" />&nbsp;&nbsp;
 <img src="logos/mysql.svg" height="30" alt="MySQL" title="MySQL" />&nbsp;&nbsp;
@@ -66,30 +60,24 @@ Eu decido o quê e o porquê; o Maestro divide o trabalho, os agentes constroem,
 <img src="logos/mongodb.svg" height="30" alt="MongoDB" title="MongoDB" />&nbsp;&nbsp;
 <img src="logos/redis.svg" height="30" alt="Redis" title="Redis" />&nbsp;&nbsp;
 <picture><source media="(prefers-color-scheme: dark)" srcset="logos/prisma.svg" /><img src="logos/prisma-light.svg" height="30" alt="Prisma" title="Prisma" /></picture>&nbsp;&nbsp;
-<picture><source media="(prefers-color-scheme: dark)" srcset="logos/drizzle.svg" /><img src="logos/drizzle-light.svg" height="30" alt="Drizzle" title="Drizzle" /></picture><br><sub>também: Power BI</sub>
-</td>
-</tr>
-<tr>
-<td width="22%"><sub><b>AUTOMAÇÃO</b></sub></td>
-<td>
+<picture><source media="(prefers-color-scheme: dark)" srcset="logos/drizzle.svg" /><img src="logos/drizzle-light.svg" height="30" alt="Drizzle" title="Drizzle" /></picture>
+</p>
+<p>
+<sub><b>AUTOMAÇÃO</b></sub><br />
 <img src="logos/n8n.svg" height="30" alt="n8n" title="n8n" />&nbsp;&nbsp;
 <img src="logos/whatsapp.svg" height="30" alt="WhatsApp" title="WhatsApp" />&nbsp;&nbsp;
 <img src="logos/telegram.svg" height="30" alt="Telegram" title="Telegram" />&nbsp;&nbsp;
 <img src="logos/google-calendar.svg" height="30" alt="Google Calendar" title="Google Calendar" />
-</td>
-</tr>
-<tr>
-<td width="22%"><sub><b>IA</b></sub></td>
-<td>
+</p>
+<p>
+<sub><b>IA</b> &nbsp;·&nbsp; orquestrados no Maestri, com OpenCode e GitHub Copilot</sub><br />
 <img src="logos/claude.svg" height="30" alt="Claude" title="Claude" />&nbsp;&nbsp;
 <picture><source media="(prefers-color-scheme: dark)" srcset="logos/codex.svg" /><img src="logos/codex-light.svg" height="30" alt="Codex" title="Codex" /></picture>&nbsp;&nbsp;
 <img src="logos/google-gemini.svg" height="30" alt="Google Gemini" title="Google Gemini" />&nbsp;&nbsp;
-<img src="logos/antigravity.png" height="30" alt="Antigravity" title="Antigravity" /><br><sub>orquestrados no Maestri, com OpenCode e GitHub Copilot</sub>
-</td>
-</tr>
-<tr>
-<td width="22%"><sub><b>TESTES E INFRA</b></sub></td>
-<td>
+<img src="logos/antigravity.png" height="30" alt="Antigravity" title="Antigravity" />
+</p>
+<p>
+<sub><b>TESTES E INFRA</b></sub><br />
 <img src="logos/playwright.svg" height="30" alt="Playwright" title="Playwright" />&nbsp;&nbsp;
 <img src="logos/vitest.svg" height="30" alt="Vitest" title="Vitest" />&nbsp;&nbsp;
 <img src="logos/docker.svg" height="30" alt="Docker" title="Docker" />&nbsp;&nbsp;
@@ -97,17 +85,13 @@ Eu decido o quê e o porquê; o Maestro divide o trabalho, os agentes constroem,
 <picture><source media="(prefers-color-scheme: dark)" srcset="logos/aws.svg" /><img src="logos/aws-light.svg" height="30" alt="AWS" title="AWS" /></picture>&nbsp;&nbsp;
 <img src="logos/git.svg" height="30" alt="Git" title="Git" />&nbsp;&nbsp;
 <picture><source media="(prefers-color-scheme: dark)" srcset="logos/github.svg" /><img src="logos/github-light.svg" height="30" alt="GitHub" title="GitHub" /></picture>
-</td>
-</tr>
-<tr>
-<td width="22%"><sub><b>NO DIA A DIA</b></sub></td>
-<td>
+</p>
+<p>
+<sub><b>NO DIA A DIA</b></sub><br />
 <img src="logos/vscode.svg" height="30" alt="VS Code" title="VS Code" />&nbsp;&nbsp;
 <img src="logos/notion.svg" height="30" alt="Notion" title="Notion" />&nbsp;&nbsp;
 <img src="logos/obsidian.svg" height="30" alt="Obsidian" title="Obsidian" />
-</td>
-</tr>
-</table>
+</p>
 
 ## Contato
 
