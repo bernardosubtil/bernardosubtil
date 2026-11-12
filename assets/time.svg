@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="548" viewBox="0 0 1280 548" role="img" aria-label="Time de agentes de IA no Maestri: Maestro (Claude Code), Prisma, Forja, Sentinela, Lupa, Radar, Eco e Pena.">
+<defs><clipPath id="t-clip"><rect width="1280" height="548" rx="2"/></clipPath></defs>
+<style>
+  text{font-family:ui-monospace, 'SFMono-Regular', 'Cascadia Code', Consolas, 'Liberation Mono', monospace;font-size:17px}
+  .l{animation:aparece .3s backwards}
+  @keyframes aparece{from{opacity:0}}
+  .digita{animation:digitar 2.4s steps(63) 1.7s backwards}
+  @keyframes digitar{from{clip-path:inset(0 100% 0 0)}to{clip-path:inset(0 0 0 0)}}
+  .cursor{animation:pisca 1.1s steps(1) infinite}
+  @keyframes pisca{50%{opacity:0}}
+  .vivo{animation:pulsa 2.4s ease-in-out infinite}
+  @keyframes pulsa{50%{opacity:.35}}
+  @media (prefers-reduced-motion:reduce){.l,.digita{animation:none}.cursor,.vivo{animation:none}}
+</style>
+<g clip-path="url(#t-clip)">
+  <rect width="1280" height="548" fill="#0a0a0a"/>
+  <rect x=".5" y=".5" width="1279" height="547" rx="2" fill="none" stroke="#27272a"/>
+  <rect width="1280" height="48" fill="#111113"/>
+  <rect y="48" width="1280" height="1" fill="#27272a"/>
+  <text x="56" y="30" fill="#71717a" style="font-size:15px">maestri · canvas de agentes</text>
+  <text x="1224" y="30" fill="#71717a" text-anchor="end" style="font-size:15px">8 agentes · 1 canvas por projeto</text>
+  <text x="56" y="96" fill="#fafafa"><tspan fill="#51f0d8">~/projetos</tspan> <tspan fill="#71717a">$</tspan> maestri list</text>
+  <g class="l" style="animation-delay:.35s">
+    <text x="56" y="132" fill="#52525b" style="font-size:13px" letter-spacing="1.5">AGENTE</text>
+    <text x="220" y="132" fill="#52525b" style="font-size:13px" letter-spacing="1.5">FERRAMENTA</text>
+    <text x="400" y="132" fill="#52525b" style="font-size:13px" letter-spacing="1.5">MODELO</text>
+    <text x="560" y="132" fill="#52525b" style="font-size:13px" letter-spacing="1.5">CUIDA DE</text>
+  </g>
+  <g transform="translate(0 19.8)">
+  <g class="l" style="animation-delay:0.5s">
+    <text x="56" y="150" fill="#51f0d8" font-weight="700">maestro</text>
+    <text x="220" y="150" fill="#a1a1aa">claude code</text>
+    <text x="400" y="150" fill="#71717a">opus</text>
+    <text x="560" y="150" fill="#d4d4d8">planeja, divide, integra e commita</text>
+    <text x="1224" y="150" fill="#3f3f46" text-anchor="end">●</text>
+  </g>
+  <g class="l" style="animation-delay:0.62s">
+    <text x="56" y="186" fill="#fafafa" font-weight="400">prisma</text>
+    <text x="220" y="186" fill="#a1a1aa">claude code</text>
+    <text x="400" y="186" fill="#71717a">sonnet</text>
+    <text x="560" y="186" fill="#d4d4d8">telas, componentes e ui/ux</text>
+    <text x="1224" y="186" fill="#3f3f46" text-anchor="end">●</text>
+  </g>
+  <g class="l" style="animation-delay:0.74s">
+    <text x="56" y="222" fill="#fafafa" font-weight="400">forja</text>
+    <text x="220" y="222" fill="#a1a1aa">codex</text>
+    <text x="400" y="222" fill="#71717a">gpt-6</text>
+    <text x="560" y="222" fill="#d4d4d8">api, banco, integrações e offline</text>
+    <text x="1224" y="222" fill="#3f3f46" text-anchor="end">●</text>
+  </g>
+  <g class="l" style="animation-delay:0.86s">
+    <text x="56" y="258" fill="#fafafa" font-weight="400">sentinela</text>
+    <text x="220" y="258" fill="#a1a1aa">codex</text>
+    <text x="400" y="258" fill="#71717a">gpt-6.1</text>
+    <text x="560" y="258" fill="#d4d4d8">testes, ci e homologação</text>
+    <text x="1224" y="258" fill="#3f3f46" text-anchor="end">●</text>
+  </g>
+  <g class="l" style="animation-delay:0.98s">
+    <text x="56" y="294" fill="#fafafa" font-weight="400">lupa</text>
+    <text x="220" y="294" fill="#a1a1aa">claude code</text>
+    <text x="400" y="294" fill="#71717a">opus</text>
+    <text x="560" y="294" fill="#d4d4d8">revisão de código e segurança</text>
+    <text x="1224" y="294" fill="#3f3f46" text-anchor="end">●</text>
+  </g>
+  <g class="l" style="animation-delay:1.1s">
+    <text x="56" y="330" fill="#fafafa" font-weight="400">radar</text>
+    <text x="220" y="330" fill="#a1a1aa">antigravity</text>
+    <text x="400" y="330" fill="#71717a">gemini</text>
+    <text x="560" y="330" fill="#d4d4d8">pesquisa, specs e documentação</text>
+    <text x="1224" y="330" fill="#3f3f46" text-anchor="end">●</text>
+  </g>
+  <g class="l" style="animation-delay:1.22s">
+    <text x="56" y="366" fill="#fafafa" font-weight="400">eco</text>
+    <text x="220" y="366" fill="#a1a1aa">opencode</text>
+    <text x="400" y="366" fill="#71717a">gpt-oss</text>
+    <text x="560" y="366" fill="#d4d4d8">tarefas braçais, scripts e mocks</text>
+    <text x="1224" y="366" fill="#3f3f46" text-anchor="end">●</text>
+  </g>
+  <g class="l" style="animation-delay:1.3399999999999999s">
+    <text x="56" y="402" fill="#fafafa" font-weight="400">pena</text>
+    <text x="220" y="402" fill="#a1a1aa">opencode</text>
+    <text x="400" y="402" fill="#71717a">nemotron</text>
+    <text x="560" y="402" fill="#d4d4d8">textos, microcopy e tradução</text>
+    <text x="1224" y="402" fill="#3f3f46" text-anchor="end">●</text>
+  </g>
+  </g>
+  <rect x="56" y="452" width="1168" height="1" fill="#1f1f23"/>
+  <text x="56" y="498" fill="#fafafa"><tspan fill="#51f0d8">~/projetos</tspan> <tspan fill="#71717a">$</tspan> <tspan class="digita">maestri ask "sentinela" "roda os testes e me diz o que quebrou"</tspan><tspan class="cursor" fill="#51f0d8">▍</tspan></text>
+</g>
+</svg>

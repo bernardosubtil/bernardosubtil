@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-label="Bernardo Subtil. Tecnologia na Aurora: automação de processos, IA e sistemas sob medida.">
+<defs>
+  <linearGradient id="h-faixa" x1="0" x2="1" y1="0" y2="0">
+    <stop offset="0" stop-color="#51f0d8"/><stop offset=".5" stop-color="#38c6f4"/><stop offset="1" stop-color="#ff2e63"/>
+  </linearGradient>
+  <filter id="h-blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="60"/></filter>
+  <linearGradient id="h-sombra" x1="0" x2="1"><stop offset=".25" stop-color="#0a0a0a"/><stop offset=".75" stop-color="#0a0a0a" stop-opacity="0"/></linearGradient>
+  <clipPath id="h-clip"><rect width="1280" height="420" rx="2"/></clipPath>
+</defs>
+<style>
+  .b{animation:deriva 14s ease-in-out infinite alternate;transform-box:fill-box;transform-origin:center}
+  .b2{animation-duration:18s;animation-delay:-6s}.b3{animation-duration:22s;animation-delay:-11s}
+  @keyframes deriva{0%{transform:translate(0,0) scale(1)}50%{transform:translate(-60px,30px) scale(1.15)}100%{transform:translate(40px,-25px) scale(.9)}}
+  .t{animation:sobe .9s cubic-bezier(.2,.7,.2,1) backwards}
+  .t1{animation-delay:.1s}.t2{animation-delay:.25s}.t3{animation-delay:.45s}.t4{animation-delay:.6s}.t5{animation-delay:.8s}
+  @keyframes sobe{from{opacity:0;transform:translateY(12px)}}
+  .cursor{animation:pisca 1.1s steps(1) infinite}
+  @keyframes pisca{50%{opacity:0}}
+  @media (prefers-reduced-motion:reduce){.b,.cursor{animation:none}.t{animation:none}}
+</style>
+<g clip-path="url(#h-clip)">
+  <rect width="1280" height="420" fill="#0a0a0a"/>
+  <g filter="url(#h-blur)" opacity=".55">
+    <ellipse class="b" cx="1010" cy="150" rx="230" ry="120" fill="#51f0d8"/>
+    <ellipse class="b b2" cx="1120" cy="300" rx="200" ry="110" fill="#38c6f4"/>
+    <ellipse class="b b3" cx="900" cy="330" rx="170" ry="90" fill="#ff2e63"/>
+  </g>
+  <rect width="1280" height="420" fill="url(#h-sombra)"/>
+  <rect width="1280" height="3" fill="url(#h-faixa)"/>
+  <g transform="translate(890 70) scale(0.23125996810207336)" opacity=".95"><path fill-rule="evenodd" fill="#fff" d="M725.365 288.073C726.814 289.212 728 290.542 728 291.027C728 291.888 755.517 347.243 950.39 738.408C1042.65 923.603 1046.72 932.127 1043.42 933.393C1038.94 935.112 889.24 934.016 887.263 932.25C886.186 931.288 877.292 913.625 867.5 893C857.707 872.375 843.52 842.675 835.972 827C828.424 811.325 813.235 779.375 802.219 756C782.597 714.366 776.586 701.67 766 679.5C763.111 673.45 754.56 655.45 746.998 639.5C739.436 623.55 730.988 605.775 728.224 600C725.46 594.225 714.315 570.825 703.457 548C692.599 525.175 676.526 491.425 667.74 473C649.744 435.262 644.822 424.936 636.229 406.885C630.234 394.29 627.574 391 623.388 391C618.437 391 618.003 391.806 601.005 432.5C598.937 437.45 593.79 449.6 589.566 459.5C572.657 499.133 553.411 545.492 540.928 576.654C513.554 644.993 497.537 667.495 462.748 686.498C459.035 688.526 456.241 690.581 456.54 691.065C456.848 691.562 508.533 691.954 575.598 691.967C644.805 691.98 694.82 692.368 695.812 692.899C698.141 694.146 744 789.197 744 792.777C744 798.292 752.01 797.999 601.05 798.017C449.661 798.036 454.059 797.892 442 803.233C425.549 810.52 421.652 816.324 389.668 881.169C374.589 911.741 363.562 932.954 362.547 933.344C360.384 934.174 210 934.216 210 933.387C210 932.853 216.044 921.662 248.016 863C265.268 831.345 278.851 806.461 289.5 787C306.539 755.864 312.559 744.736 328.997 714C360.137 655.773 361.994 654.195 398.467 654.965C443.124 655.909 450.677 655.678 459.5 653.1C488.47 644.633 511.331 623.546 531.815 586.396C538.088 575.02 546.508 558.231 547.435 555.25C548.135 553 548.135 553 477.567 553C390.343 553 398.457 555.944 411.425 529.003C416.059 519.376 426.134 498.45 433.814 482.5C441.493 466.55 453.736 441.35 461.019 426.5C468.303 411.65 486.366 374.525 501.16 344C515.953 313.475 528.805 287.938 529.72 287.25C533.089 284.717 722.109 285.511 725.365 288.073Z"/></g>
+
+  <text class="t t1" x="72" y="104" font-family="ui-monospace, 'SFMono-Regular', 'Cascadia Code', Consolas, 'Liberation Mono', monospace" font-size="16" letter-spacing="1.5" fill="#71717a">// TECNOLOGIA · AURORA</text>
+  <text class="t t2" x="68" y="196" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="84" font-weight="700" letter-spacing="-2.5" fill="#fafafa">Bernardo Subtil</text>
+  <text class="t t3" x="72" y="250" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="25" fill="#d4d4d8">Automação de processos, IA e sistemas sob medida.</text>
+  <text class="t t4" x="72" y="286" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="25" fill="#a1a1aa">Da interface ao servidor.<tspan class="cursor" fill="#51f0d8" dx="6">▍</tspan></text>
+  <g class="t t5" font-family="ui-monospace, 'SFMono-Regular', 'Cascadia Code', Consolas, 'Liberation Mono', monospace" font-size="15" fill="#71717a" letter-spacing=".5">
+    <text x="72" y="368">vila velha, es · engenharia de software na uvv</text>
+    <text x="1208" y="368" text-anchor="end" fill="#a1a1aa">auroradev.space ↗</text>
+  </g>
+  <rect x="72" y="338" width="1136" height="1" fill="#27272a"/>
+</g>
+</svg>
